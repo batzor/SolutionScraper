@@ -1,5 +1,5 @@
 [package]
-name = "solution_scraper"
+name = "scrapesol"
 version = "0.1.0"
 edition = "2021"
 
